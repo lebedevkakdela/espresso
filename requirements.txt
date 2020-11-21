@@ -1,0 +1,4 @@
+sys
+PyQt5 (uic)
+PyQt5.QtWidgets (QApplication, QMainWindow)
+sqlite3
